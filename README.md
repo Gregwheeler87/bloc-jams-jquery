@@ -12,9 +12,4 @@ In this project I was given the index.html file, the css file and some .js files
 # Links
 [Link to live project](https://greg-bloc-jams.netlify.com/)
 
-# Screenshots:
-![Before](https://drive.google.com/open?id=193Wy6Sw7JvczZ6V5eBtmV_8VImg-sQij)
-![After](https://drive.google.com/file/d/1WC2BsxNJ0VyHue-rfn6u9cvjMv7PiA8c/view?usp=sharing)
-
-
 
